@@ -41,5 +41,5 @@ Encuentra la forma de avanzar y localiza las torres con cristales sangrientos pa
 
 # Imágenes generadas con IA
 
-![Imagen generada 1](Images/BloodyCrystal.jpg)
-![Imagen generada 2](Images/Velociraptor.jpg)
+![Imagen generada 1](Assets/Images/BloodyCrystal.jpg)
+![Imagen generada 2](Assets/Images/Velociraptor.jpg)
