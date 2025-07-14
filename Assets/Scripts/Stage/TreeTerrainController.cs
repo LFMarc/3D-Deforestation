@@ -64,6 +64,12 @@ namespace Deforestation
 		{
 			//TODO: Reasignar todos los indices de todos los tree detectors.
 			List<TreeInstance> trees = new List<TreeInstance>(_terrain.terrainData.treeInstances);
+
+			if (index >= trees.Count)
+			{
+				return;
+			}
+
 			trees.RemoveAt(index);
 			_terrain.terrainData.treeInstances = trees.ToArray();
 		}
